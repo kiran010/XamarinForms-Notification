@@ -1,0 +1,2 @@
+C:\Users\sathyaki\Documents\Projects\NotificationsInForms\XamarinPushNotifications_Xamarin_Forms\UWP\XamarinPushNotifications.UWP.csproj;x86
+C:\Users\sathyaki\Documents\Projects\NotificationsInForms\XamarinPushNotifications_Xamarin_Forms\XamarinPushNotifications\XamarinPushNotifications.csproj;neutral
